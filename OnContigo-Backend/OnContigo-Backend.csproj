@@ -27,6 +27,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="MedicalAttention\Application\Internal\QueryServices\" />
+    <Folder Include="MedicalAttention\Interfaces\REST\Transformers\" />
+    <Folder Include="MedicalAttention\Interfaces\REST\Resources\" />
     <Folder Include="Users\Application\Internal\CommandServices\" />
     <Folder Include="Users\Application\Internal\QueryServices\" />
     <Folder Include="Users\Domain\Model\ValueObjects\" />
